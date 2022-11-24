@@ -4,7 +4,7 @@ Curso: **Profissão Desenvolvedor de Games em Unity**<br/>
 Módulo: **Programação Orientada a Objetos**<br/>
 Versão do Unity: **2021.3.9f1**<br/>
 
-## Módulo 6
+## Módulo 7
 
 Atividade do módulo:<br/>
 Implementar armadura: equipar e desequipar, ter pontos de resistencia para proteger de dano e quebrar ao terminar os pontos.<br/>
